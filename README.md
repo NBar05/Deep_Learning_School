@@ -1,3 +1,3 @@
-# Deep Learning School (MIPT)
+# Deep Learning School
 
 Сделанные дз для курса МФТИ по нейросетям (1 часть)
